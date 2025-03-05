@@ -1,0 +1,31 @@
+@keyframes bulb {
+  0% {
+    top: 0;
+  }
+  50% {
+    top: 30px;
+  }
+  100% {
+    top: 0;
+  }
+}
+@keyframes flickerAnimation {
+  0% {
+    opacity: 1;
+  }
+  20% {
+    opacity: 0.8;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  60% {
+    opacity: 0.4;
+  }
+  80% {
+    opacity: 0.8;
+  }
+  100% {
+    opacity: 1;
+  }
+}/*# sourceMappingURL=variabless.css.map */
